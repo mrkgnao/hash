@@ -1,6 +1,6 @@
 module Main where
 
-import qualified MiniTodo
+import qualified UI
 
 main :: IO ()
-main = MiniTodo.main
+main = UI.main
